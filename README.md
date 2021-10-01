@@ -210,4 +210,4 @@ Here we worked with pre-trained model, let's try this program with something unu
 docker run imgrecognition https://i.pinimg.com/736x/12/5c/e0/125ce0baff3271761ca61843eccf7985.jpg
 ```
 
-Mouse?? no! But it's possible to train our models from Go in TensorFlow, and I will definitely do a video about it.
+Mouse?? no! But it's possible to train our models from Go in TensorFlow, and I will definitely do a video about it.# go_img_recognition
